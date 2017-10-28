@@ -3,7 +3,7 @@ Layout: post
 Published: true
 published: true
 ---
----
+
 
 Some Thoughts on the Text Analysis  
 
