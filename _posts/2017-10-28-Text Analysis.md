@@ -1,7 +1,8 @@
 ---
-published: true
+
 Layout: post
 Published: true
+---
 ---
 
 #Some Thoughts on the Text Analysis  
