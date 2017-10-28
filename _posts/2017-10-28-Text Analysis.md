@@ -4,8 +4,7 @@ Published: true
 published: true
 ---
 
-
-Some Thoughts on the Text Analysis  
+Some Thoughts on the Text Analysis
 
 	For literary scholars, textual analysis makes possible the processing of large bodies of work previously thought too daunting and time consuming to be undertaken. The computational tools currently available open the doors to vast stores of data waiting to be interpreted. Personally, I find this an exhilarating possibility as it facilitates the mapping of concepts over time. As a sociology major, the ability to map the development of concepts through time and space is essential to understanding why actors and institutions are the way they are. It is worth noting however, that the data produced during research, especially in the case of literary studies, should be read closely. Tanya Clement, Sara Steger, John Unsworth, and Kirsten Uszkalo, in "How Not to Read a Million Books" highlight that researchers should refrain from utilizing the technology as a means of demonstrating the truth of hypotheses. A more reliable approach to research would be to treat findings as sign posts or flags indicating locations for further, closer analysis. 
 
