@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 Layout: post
 Published: true
 ---
@@ -17,4 +17,3 @@ title: Thoughts on Text Analysis
 ## Why use text analysis 
 
 	Despite the potential for poor methodology, the tools and technology that exist today present a research environment where we are able to identify sign posts across large stores of data in order to better make sense of the world we investigate. Distant reading opens the doors to possible close reading and together, the two methods can offer windows into phenomena like the representations of the working class in 19th century English novels and the social and historical contexts from which the texts were produced. Interestingly, in searching for specific data, we also become aware of what is absent from the texts in our study. What remains silent in the narrative says just as much as what the author included.Generally speaking, by employing the macro analysis of computational tools, and micro analysis of close reading and contextualization, a researcher is able to fill in the two sides of the whole. What remains challenging and relevant to contemporary studies in sociology however, is how text analysis can make sense of racism, for example, not just as a set of terms and behaviors but as something reflective of what it is like to experience racism. In “More Scale, More Questions: Observations From Sociology” Tressie McMillian Cottom addresses the question and leaves us pondering what maps and data visualization would look like if they were based on lived experience. It seems to me like text analysis tools can be applied to at least shed a light on what this would look like if we apply the tools to the right kinds of texts. The world of post-colonial literature for example could offer a set of texts worth exploring and of mapping experiences of racialized subjects whose voices and narratives have otherwise been silenced.
-
