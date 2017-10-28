@@ -3,10 +3,6 @@ published: true
 Layout: post
 Published: true
 ---
-layout: post 
-title: Thoughts on Text Analysis 
-
----
 
 # Some Thoughts on the Text Analysis  
 
