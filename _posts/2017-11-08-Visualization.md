@@ -2,6 +2,7 @@
 published: true
 layout: post
 ---
+---
 ## Some Thoughts on Visualization
 
 In short, information vizualization can be regarded as the representation of data that has been reduced to points, lines, shapes, etc. The visual representation of this data, while not taking into consideration the vast majority of information specific to the object of study, enables researchers to identify characteristics that would otherwise be difficult to identify using conventional analytic techniques. Using visualization tools to represent the purchasing history of a museum for example might reveal trends that remain unexamined when not reduced to a few basic elements. By attributing spatial characteristics such as distance and size to data, it is also posible to identify the prominance of certain concepts. If we think about the types of articles people click on in different social media platforms, we can represent the different types using spheres of varing size as an indicator of views. Although it doesn't explain the reasoning behind the selection of articles, visualizations of this type helps to shed light on the habits of individuals and groups. 
