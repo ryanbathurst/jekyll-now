@@ -3,6 +3,9 @@ published: true
 layout: post
 ---
 
+
+
+
 ## Mapping and Subjective Data 
 
 When most people think of maps, the first image that comes to mind is most likely the Mercator projection or perhaps google maps. I don’t know if this is an actual fact but I think points to a general tendency in society to think about maps in a very simplistic manner, where the data being represented is a matter of fact. This matter of factness is important when we consider the social and political implications it can have. It points to the general tendency to treat data as objective rather than as capta, which is actively taken. Looking at the reification of categories like gender in census' and survey's, for example, speaks to the social construction of categories and what we consider to be data. If we continue to rely on the binary understanding of gender, and treat it as a matter of fact, it is difficult for individuals to break from the established conventions. If we instead, account for variation amongst gender identifications, and apply this understanding to the way we represent data it seems possible that we may open up a space for more nuanced understandings of the world around us. Without the availability of new categories, or flexibility within categories, the possibilities for change are limited. 
