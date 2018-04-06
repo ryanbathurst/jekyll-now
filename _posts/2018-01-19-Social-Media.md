@@ -2,9 +2,8 @@
 published: true
 layout: post
 ---
----
 
-## Social Media 
+## A Closer Look at Social Media 
 
 ### The Individual 
 
