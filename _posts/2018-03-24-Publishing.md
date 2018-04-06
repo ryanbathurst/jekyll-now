@@ -14,6 +14,11 @@ As a side note, it is important to recognize the potential threats or dangers of
 ## Readings
 
 Dougherty, Jack, Kristen Nawrotzki, Charlotte Rochez, and Timothy Burke. 2012. ‘Conclusions: What We Learned from Writing History in the Digital Age (Spring 2012)’ https://writinghistory.trincoll.edu/conclusions-2012-spring/
+
 Flaherty, Colleen. 2017. ‘Threats for what she didn’t say’ Inside Higher Ed https://www.insidehighered.com/news/2017/06/19/classicist-finds-herself-target-online-threats-after-article-ancient-statues
+
 Liang, Hong-Ming. 2013 ‘Opening the Journal: How an Open-Access E-Journal Can Serve Scholarship, the Liberal Arts, and the Community’ Perspectives https://www.historians.org/publications-and-directories/perspectives-on-history/may-2013/opening-the-journal
+
 Rohrbach, Augusta. ‘Authorship’ Digital Pedagogy in the Humanities https://digitalpedagogy.mla.hcommons.org/keywords/authorship/
+
+
