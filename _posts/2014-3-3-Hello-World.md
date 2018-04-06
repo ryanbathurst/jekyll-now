@@ -2,7 +2,6 @@
 layout: post
 title: Code 
 ---
----
 
 What is Code?
 
