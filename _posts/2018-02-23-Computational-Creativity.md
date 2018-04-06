@@ -1,7 +1,7 @@
 ---
 published: true
 ---
----
+
 ## A Word on Computational Creativity 
 
 When someone creates an artifact, like a painting or a sculpture, we tend to think of that act as a creative one. To produce or modify an artifact, using a variety of tools, and with a certain degree of imagination is what we generally hold to be the creative process. However, when we introduce mechanical components into this process it becomes complicated and its status as a creative piece can be challenged. When it concerns computational creativity, it becomes even more vague and difficult to reach a consensus, with many people labeling it as a reduced or mediated form of creativity. This understanding bears a resemblance to [Kate Compton’s](http://www.casualcreator.com/blog/) discussion of big ‘C’ and little ‘c’ creativity. What I find interesting about this dichotomy is that it seems to reflect a distinction between legitimate and illegitimate cultures. One is oriented towards the cultivation of a particular message or objective while the latter is primarily art for arts sake. Complimenting these two intents, is the concept of delegation from actor network theory. In many contexts, what might be considered computational creativity is used to perform tasks typically assigned to human actors. This delegation of tasks can be used to cut the cost of labour, although it is generally not thought of as creative, instead it is a means to improve productivity. Its important to remember here that each task, whether it’s painting or writing code for a program that will generate content, is carefully pieced together through a number of steps and processes with an intent. 
