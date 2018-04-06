@@ -2,7 +2,7 @@
 published: true
 layout: post
 ---
----
+
 
 ## Some Thoughts on Visualization
 
