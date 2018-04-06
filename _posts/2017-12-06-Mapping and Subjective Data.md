@@ -2,9 +2,6 @@
 published: true
 layout: post
 ---
-----
-
-
 
 ## Mapping and Subjective Data 
 
