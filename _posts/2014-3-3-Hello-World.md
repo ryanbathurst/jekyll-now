@@ -1,10 +1,10 @@
 ---
 layout: post
-title: What is Code? 
+title: Code 
 ---
 ---
 
-Notes on Code
+What is Code?
 
 While reading Paul Fords "What is Code" I was attempting to work towards a basic understanding of what code is, obviosly, and what code ment in relation to the computer. Ford does a good job of breaking the computer down into intelligable pieces, portraying the computer as a fancy or complex clock mechanism. What emerged from my attempt to understand this issues is that computers really just wait for input, wheather it be the pressing of a key or the clicking of a button. Most of the people I know, myself included, have the tendency to look at computers as mysterios/magical devices that operate outside of our realm of understanding. In taking a look at coding languages you begin to see that people have constructed languages in order to suit specific needs and to get the computer to do what they need it to do. Code is used to write algorithims which allow for more complex ooperations to occure, and the computer carries them out using a series of logic gates(connected to hardware). Software consists of a series of instructions (coded instructions and algorithims). The data bases or libraries of code availabe make it easier, at least in my case, to look at code as a simple (not really that simple) set of instructions. You have the ability to cut and paste and repurpose code written for a variety of purposes.
 
