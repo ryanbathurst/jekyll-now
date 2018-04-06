@@ -24,8 +24,12 @@ Reflecting on Kris Shafer’s [techniques for combating propaganda](https://push
 
 ### Further Reading
 
-- Spangler, Sarah et al. What relationship does the digital humanities/academy have to social media activist movements? http://mediacommons.futureofthebook.org/question/what-relationship-does-digital-humanitiesacademy-have-social-media-activist-movements
-- Kris Shaffer, Ten Ways to Get Started Fighting Internet Propaganda https://pushpullfork.com/getting-started-fighting-internet-propaganda/amp/
-- Tressie McMillan Cottom, 2015. “Who Do You Think You Are?”: When Marginality Meets Academic Microcelebrity Ada 7 http://adanewmedia.org/2015/04/issue7-mcmillancottom/
-- boyd, danah and Marwick, Alice E., 2011. Social Privacy in Networked Publics: Teens’ Attitudes, Practices, and Strategies A Decade in Internet Time: Symposium on the Dynamics of the Internet and Society, September 2011. https://ssrn.com/abstract=1925128
-- Madrigal, Alexis C. 2017. Facebook’s Reckoning Draws Nearer The Atlantic https://www.theatlantic.com/technology/archive/2017/09/from-russia-with-love-for-automation/540180/
+Spangler, Sarah et al. What relationship does the digital humanities/academy have to social media activist movements? http://mediacommons.futureofthebook.org/question/what-relationship-does-digital-humanitiesacademy-have-social-media-activist-movements
+
+Kris Shaffer, Ten Ways to Get Started Fighting Internet Propaganda https://pushpullfork.com/getting-started-fighting-internet-propaganda/amp/
+
+Tressie McMillan Cottom, 2015. “Who Do You Think You Are?”: When Marginality Meets Academic Microcelebrity Ada 7 http://adanewmedia.org/2015/04/issue7-mcmillancottom/
+
+Boyd, Danah and Marwick, Alice E., 2011. Social Privacy in Networked Publics: Teens’ Attitudes, Practices, and Strategies A Decade in Internet Time: Symposium on the Dynamics of the Internet and Society, September 2011. https://ssrn.com/abstract=1925128
+
+Madrigal, Alexis C. 2017. Facebook’s Reckoning Draws Nearer The Atlantic https://www.theatlantic.com/technology/archive/2017/09/from-russia-with-love-for-automation/540180/
