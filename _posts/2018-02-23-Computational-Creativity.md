@@ -11,6 +11,9 @@ One of the things that I’ve found interesting about computational creativity i
 
 Readings 
 
--Compton, Kate. 2014 ‘The Casual Creator’ http://www.casualcreator.com/blog/
--Phillips, Amanda Feminism and procedural content generation: toward a collaborative politics of computational creativity http://dx.doi.org/10.1080/14626268.2016.1147469
--Compton, Kate. 2015. ‘Tracery: An Author-Focused Generative Text Tool’ International Conference on Interactive Digital Storytelling https://link.springer.com/chapter/10.1007/978-3-319-27036-4_14 see also Tracery.io
+Compton, Kate. 2014 ‘The Casual Creator’ http://www.casualcreator.com/blog/
+
+Compton, Kate. 2015. ‘Tracery: An Author-Focused Generative Text Tool’ International Conference on Interactive Digital Storytelling https://link.springer.com/chapter/10.1007/978-3-319-27036-4_14 see also Tracery.io
+
+Phillips, Amanda Feminism and procedural content generation: toward a collaborative politics of computational creativity http://dx.doi.org/10.1080/14626268.2016.1147469
+
