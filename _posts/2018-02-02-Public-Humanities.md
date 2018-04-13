@@ -16,18 +16,12 @@ Colleen Flaherty, in “Threats for What She Didn’t Say”(2015), addresses Bo
 
 Similar to the harassment experienced by Bond, Tressie McMillan Cottom, in “Who Do You Think You Are?” points out that gender, race, and class serve as a basis for discrimination and devaluation of credentials in certain publics. While the notion that any press is good press may be true for a white male, the exposure that comes with microcelebrity puts women and visible minorities at risk. McMillan’s experience demonstrates the ways in which race and gender are used as a means to devalue her credentials and as the basis for hatred. The threats she received and the false sense of authority displayed by the public point to the importance of having institutional support as well as to the importance of continuing to write for the public. It seems at least part of the problem, one more easily corrected, has to do with the hiring practices of universities and other academically oriented institutions. By not hiring academics who are black and female, universities are continuing to propagate the idea that only white men are capable of the highest level of academic/intellectual work. While this doesn't address the overwhelming systemic racism and gender bias that is present in society it certainly does not help those who are brave enough to write for the public. 
 
-### Works Referenced
+### References
 
-- Bond, Sarah. ‘The argument made by the absence: On Whiteness, Polychromy, and Diversity in 
-     Classics’ https://sarahemilybond.com/2017/04/30/the-argument-made-by-the-absence-on-	 	
-     whiteness-polychromy-and-diversity-in-classics/
+Bond, Sarah. ‘The argument made by the absence: On Whiteness, Polychromy, and Diversity in Classics’ https://sarahemilybond.com/2017/04/30/the-argument-made-by-the-absence-on-whiteness-polychromy-and-diversity-in-classics/
 
-- Bond, Sarah. ‘Why We Need to Start Seeing the Classical World in 
-     Color’ https://hyperallergic.com/383776/why-we-need-to-start-seeing-the-classical-   	world-in- 
-     color/
+Bond, Sarah. ‘Why We Need to Start Seeing the Classical World in Color’ https://hyperallergic.com/383776/why-we-need-to-start-seeing-the-classical-world-in-color/
 
-- Cottom, Tressie McMillan. 2015 ‘Who Do You Think You Are?’: Academic Engagement, 	Microcelebrity 	      and Digital Sociology from the Far Left of the Matrix of Domination Ada 	7   
-     2015 http://adanewmedia.org/2015/04/issue7-mcmillancottom/
+Cottom, Tressie McMillan. 2015 ‘Who Do You Think You Are?’: Academic Engagement,Microcelebrity and Digital Sociology from the Far Left of the Matrix of Domination Ada 7 2015 http://adanewmedia.org/2015/04/issue7-mcmillancottom/
 
-- Shaffer, K. 2017 ‘Twitter propaganda during ‘Unite the 
-	Right’ http://pushpullfork.com/2017/08/twitter-propaganda-during-unite-the-right/
+Shaffer, K. 2017 ‘Twitter propaganda during ‘Unite the Right’ http://pushpullfork.com/2017/08/twitter-propaganda-during-unite-the-right/
