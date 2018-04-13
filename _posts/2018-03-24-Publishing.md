@@ -12,7 +12,7 @@ To look at a concrete case, Hong-Ming Liang (2013) in ["Opening the Journal: How
 
 As a side note, it is important to recognize the potential threats or dangers of making work public. As has been demonstrated in the past, depending on the subject matter, scholars can come under attack for the ideas they put forward in public spaces. Addressing issues of race, class, or gender for example needs to be done carefully as the public(s) can push back, employing racist or sexist frameworks to challenge research. Collen Flaherty's (2017) examination of Sarah Bond's experience publishing work on the aesthetics of ancient classical sculptures serves as a pertinent example of this process. 
 
-## Readings
+## References
 
 Dougherty, Jack, Kristen Nawrotzki, Charlotte Rochez, and Timothy Burke. 2012. ‘Conclusions: What We Learned from Writing History in the Digital Age (Spring 2012)’ https://writinghistory.trincoll.edu/conclusions-2012-spring/
 
